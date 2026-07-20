@@ -28,14 +28,15 @@ This project involves:
 
 🛠️ Important Links & Tools:
 Everything is for Free!
-Datasets: Access to the project dataset (csv files).
-SQL Server Express: Lightweight server for hosting your SQL database.
-SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
-Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-DrawIO: Design data architecture, models, flows, and diagrams.
-Notion: Get the Project Template from Notion
-Notion Project Steps: Access to All Project Phases and Tasks.
-🚀 Project Requirements
+**Datasets**: Access to the project dataset (csv files).
+**SQL Server Express**: Lightweight server for hosting your SQL database.
+**SQL Server Management Studio (SSMS)**: GUI for managing and interacting with databases.
+**Git Repository**: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+**DrawIO**: Design data architecture, models, flows, and diagrams.
+**Notion**: Get the Project Template from Notion
+**Notion Project Steps**: Access to All Project Phases and Tasks.
+
+## 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
 Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
